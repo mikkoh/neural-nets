@@ -1,0 +1,31 @@
+{
+  "name": "color-grade",
+  "version": "1.0.0",
+  "description": "A small experiment with Neural Networks attempting train a neural net which can learn how to do color grading",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "get-image-pixels": "^1.0.0",
+    "raf": "^3.1.0",
+    "synaptic": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikkoh/color-grade.git"
+  },
+  "homepage": "https://github.com/mikkoh/color-grade",
+  "bugs": {
+    "url": "https://github.com/mikkoh/color-grade/issues"
+  }
+}
